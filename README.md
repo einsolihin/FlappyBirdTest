@@ -52,9 +52,9 @@ The goal of this task is to demonstrate the ability to **reskin assets**, **modi
 
 ---
 
-## 📸 Screenshots (Required)
-
-### Updated Menu UI
+## 📸 Screenshots
 ![alt text](image.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+
+---
